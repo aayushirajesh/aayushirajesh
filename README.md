@@ -1,5 +1,5 @@
 # Hi, I'm Aayushi ​✨​
-🧸 Creates desktop apps with cozy themes to make coding a little more delightful<br>🧠 Computer Science student with a passion for thoughtful, user-centered design<br>🐍 Uses Python for desktop app developments<br>🎮 Builds games in Unity using C#, and experiments with cute ideas<br>🌧️ Inspired by comfy aesthetics, rainy days, and quiet moments that spark new ideas<br>🍪 Happy to chat about cool tech ideas, favorite snacks, or even cats and their adorable antics<br>🎻 Fun fact: I play violin now and then — a little ritual that helps me recharge and refresh
+🧸  Computer Science student who creates desktop apps with cozy themes to make coding a little more delightful<br>🐍 Uses Python for desktop app developments<br>🎮 Builds games in Unity using C#, and experiments with cute ideas<br>🌧️ Inspired by comfy aesthetics, rainy days, and quiet moments that spark new ideas<br>🍪 Happy to chat about cool tech ideas, favorite snacks, or even cats and their adorable antics<br>🎻 Fun fact: I play violin now and then — a little ritual that helps me recharge and refresh
 
 
 # 💻 Tech Stack:
