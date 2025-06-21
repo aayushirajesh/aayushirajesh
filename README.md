@@ -1,5 +1,5 @@
 # Hi, I'm Aayushi✨
-🤍 Computer Science student currently exploring Cloud Cybersecurity<br>🌧️ Inspired by comfy aesthetics, rainy days, and quiet moments that spark new ideas<br>🍪 Happy to chat about cool tech ideas, favorite snacks, or even cats and their adorable antics<br>🎻 Fun fact: I play violin now and then — a little ritual that helps me recharge and refresh<br><br>
+🤍 Computer Science student currently exploring Cybersecurity<br>🌧️ Inspired by comfy aesthetics, rainy days, and quiet moments that spark new ideas<br>🍪 Happy to chat about cool tech ideas, favorite snacks, or even cats and their adorable antics<br>🎻 Fun fact: I play violin now and then — a little ritual that helps me recharge and refresh<br><br>
 
 
 # 💻 Tech Stack:
