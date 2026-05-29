@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning full-stack web development and backend tools like Supabase<br>💻 Building projects with React, Tailwind CSS, and Framer Motion<br>🎨 Interested in UI/UX, immersive interfaces, and thoughtful digital experiences<br>🌌 Working on a memory and journaling-based web project with interactive design elements<br>📚 Learning modern web development through personal projects and experimentation<br>🐈 Likes cats, clean design, and late-night building sessions<br>🤝 Open to learning, improving, and collaborating on frontend projects<br>
+🌱 Currently learning full-stack web development and backend tools like Supabase<br>💻 Building projects with React, Tailwind CSS, and Framer Motion<br>🎨 Interested in UI/UX, immersive interfaces, and thoughtful digital experiences<br>🌌 Working on a memory and journaling-based web project with interactive design elements<br>📚 Learning modern web development through personal projects and experimentation<br>🐈 Likes cats, clean design, and late-night building sessions<br>🤝 Open to learning, improving, and collaborating on frontend projects<br><br>View my Portfolio: https://aayushirajesh.github.io/portfolio/
 
 
 ## 🌐 Socials:
