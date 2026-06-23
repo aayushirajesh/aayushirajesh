@@ -1,4 +1,4 @@
-##  hey, I'm Aayushi 👋
+##  hey, i'm aayushi 👋
 Frontend developer who opens Figma before VS Code.
 I build detail-obsessed interfaces with React, Electron, and Framer Motion. <br>
 Also: cats, clean design, and late-night building sessions.<br><br>
