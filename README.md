@@ -1,7 +1,6 @@
 ##  hey, i'm aayushi 👋
-Frontend developer who opens Figma before VS Code.
-I build detail-obsessed interfaces with React, Electron, and Framer Motion. <br>
-Also: cats, clean design, and late-night building sessions.<br><br>
+Web developer who designs everything before opening VS Code.<br>I believe good websites and apps are designed first and not after, since design is what makes people stick around.<br>
+Always up for a chat about cats and tech things.<br><br>
 *View my Portfolio: https://aayushirajesh.github.io/portfolio/*
 
 
