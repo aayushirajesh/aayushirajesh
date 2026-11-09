@@ -1,5 +1,5 @@
 ##  hey, i'm aayushi 👋
-Web developer who designs everything before opening VS Code.<br>I believe good websites and apps are designed first and not after, since design is what makes people stick around.<br>
+Web Developer & UI/UX Designer<br>I believe good websites and apps are designed first and not after, since design is what makes people stick around.<br>
 Always up for a chat about cats and tech things.<br><br>
 *View my Portfolio: https://aayushirajesh.github.io/portfolio/*
 
